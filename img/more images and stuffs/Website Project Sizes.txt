@@ -1,0 +1,179 @@
+Header
+Logo: 
+W:210
+TM: 1
+LM: 0
+BM: 0
+R: Auto
+
+World of Anime
+W:300
+TM: -87
+LM: 228.3
+BM: 1
+R: 777.8
+
+Navbar:
+W:434
+H: 40
+TM: -99
+LM: auto
+BM: 0
+R: 160.4
+__________________________________
+Home
+Background: H-880
+all div: W-1140 H-830
+
+EFA:
+W:483
+TM: 53
+LM: 0
+BM: 0
+R: 30
+
+Caption:
+W:425
+TM: 53
+LM: 58
+BM: 0
+R: 30
+
+view more:
+W:170
+H:45
+TM: 32
+LM: auto
+BM: 0
+R: 30
+________________________________________
+
+Background: H623
+
+Fisrt Div
+W:1140
+H: 491
+TM: 70
+LM: 0
+BM: 60
+R: 0
+
+About Us:
+W:510
+TM: 0
+LM: 0
+BM: 0
+R: 0
+FS: 60
+***
+Secon Div:
+W:1140
+H: 491
+TM: 70
+LM: 0
+BM: 60
+R: 0
+
+Picture: W:1140
+H: 422
+TM: 378
+LM: 27
+BM: 0
+R: 33
+_______________________________________
+Background: H-705
+
+List of Genres:
+W: 1140
+TM: 54
+LM: -52
+BM: 0
+R: 52
+
+First Div: **with picture
+W:537
+H: 506
+TM: 20
+LM: 0
+BM: 0
+R: auto
+
+Genres: the boxes
+W:582
+H: 506
+TM: -506
+LM: auto
+BM: 59
+R: 0
+
+Action/Comedy/Adventure/Romace
+W:110
+TM: 0
+LM: 0
+BM: 0
+R: 110
+
+Text:
+W:220
+TM: 0
+LM: 0
+BM: 0
+R: 0
+_______________________________________
+Background H482
+
+Subscribe to uS:
+W:669
+TM: 105
+LM: 10
+BM: 0
+R: 461
+
+Click for more info: 
+W:367
+H:128
+TM: -158
+LM: auto
+BM: 60
+R: 47
+_______________________________________
+H-585
+
+Picture:
+W:390
+H:361
+TM:0 
+LM: auto
+BM: 0
+R: 0
+
+Caption:
+W:681
+TM:37 
+LM: 20
+BM: 0
+R: 0
+
+Contact Us:
+W:181
+H:45
+TM:10 
+LM: 10
+BM: 0
+R: auto
+
+_______________________________________
+FOoter
+background: H106
+
+icons: 
+W:242
+H:32
+TM:30 
+LM: auto
+BM: 43
+R: auto
+
+
+
+

@@ -1,0 +1,24 @@
+1ST NORMAL FORM:
+-must be atomic values
+- solution add an order ID as a primary key
+
+2nd Normal:
+No partial dependencies
+-database must be in first normal form
+- Non partail dependency - All non-prime attributes should be fully funcitonally dependent on the candidate key.
+-composite key
+
+3rd Normal:
+No Transitive Dependencies
+- databaes must be in 1st and 2nd Normal form
+- No transitive dependency - All fields myst only be deteminable by the primary/composite key, not by other keys.
+_______________________________________________
+1.
+Employees:
+emp_id, first_name, last_name, Salary, Phone, dep_id
+
+Departments:
+dep_id, DNO, Dname, Budget, Head_ID(Foreign key thats point to employee-id)**
+
+Children of Employees:
+emp_id, cof_id, first_name, last_name, Age
